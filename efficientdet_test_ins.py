@@ -22,7 +22,8 @@ from utils.utils import preprocess, invert_affine, postprocess, STANDARD_COLORS,
 
 compound_coef = 0
 force_input_size = None  # set None to use default size
-img_path = 'test/img.png'
+# img_path = 'test/img.png'
+img_path = 'test/aa.png'
 # img_path = ['test/img.png', 'test/img.png']
 
 # replace this part with your project's anchor config
