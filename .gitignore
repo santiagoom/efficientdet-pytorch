@@ -153,4 +153,17 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-weights/
+weights/# 3.89M
+.git\objects\06\73557c0967dc82bb028066aa22d7f885e358a4
+# 6.11M
+.git\objects\76\d27d3a131c16aab897518af77eb18022db92c8
+# 2.67M
+.git\objects\78\38cc7d736bccbc7ed2d8833d28b7042fa49ba7
+# 2.67M
+test\aa.png
+# 3.89M
+test\img.png
+# 6.14M
+test\WechatIMG1331.png
+# 2020-09-04 18:00:01.160174
+
