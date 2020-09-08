@@ -1,0 +1,11 @@
+
+
+
+
+project
+coco.yml
+num_gpus: 4 --> num_gpus: 2
+
+
+
+
