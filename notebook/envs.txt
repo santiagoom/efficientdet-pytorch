@@ -1,0 +1,10 @@
+
+
+
+
+detectron2 enal works fine
+
+pip install webcolors
+
+
+
